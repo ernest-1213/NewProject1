@@ -1,0 +1,17 @@
+.test {
+    background-color:black;
+    font-size: 80px;
+    font-weight: bolder;
+    color: white;
+}
+
+.login-container {
+    font-size: 40px;
+
+}
+.sign-container{
+    font-size: 30px;
+}
+hr.solid{
+    border-top: 3px solid;
+}
