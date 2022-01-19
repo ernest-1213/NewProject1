@@ -1,19 +1,42 @@
+body{
+    background-image: url("https://images.pexels.com/photos/531880/pexels-photo-531880.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDZgCssaYaz5TIjAlvm5kBw2bQKj_GBTvpgA&usqp=CAU");
+}
+
 .test {
-    background-color:grey;
     font-size: 75px;
     font-weight: bolder;
     margin-right: 0%;
     color: white;
 }
 
-.login-container {
+.welcome {
+    color:white;
+    font-size: 50px;
+    font-weight: bolder;
+}
+
+.sign{
+    color: white;
     font-size: 40px;
+}
 
+.acc{
+    color: white;
+    font-size: 25px;
 }
-.sign-container{
-    font-size: 30px;
-}
+
 hr.solid{
-    border-top: 3px solid;
+    border-top: 7.5px solid ;
+    opacity: 1;
 }
 
+.name{
+    color: white;
+    font-size: 40px;
+}
+.rmb{
+    color: white;
+}
+.btn{
+    font-size: 2rem;
+}
