@@ -25,6 +25,9 @@ body{
     font-size: 25px;
 }
 
+.text-primary{
+    font-size: 25px;
+}
 hr.solid{
     border-top: 7.5px solid ;
     opacity: 1;
@@ -39,4 +42,8 @@ hr.solid{
 }
 .btn{
     font-size: 2rem;
+}
+.text-mute{
+color: white;
+font-size: 20px;
 }
