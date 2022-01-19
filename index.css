@@ -1,7 +1,8 @@
 .test {
-    background-color:black;
-    font-size: 80px;
+    background-color:grey;
+    font-size: 75px;
     font-weight: bolder;
+    margin-right: 0%;
     color: white;
 }
 
@@ -15,3 +16,4 @@
 hr.solid{
     border-top: 3px solid;
 }
+
